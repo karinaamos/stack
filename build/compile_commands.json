@@ -1,14 +1,14 @@
 [
 {
-  "directory": "C:/c++ (2024-2025)/stack/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  -std=c++17 -g -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\c++ (2024-2025)\\stack\\main.cpp\"",
-  "file": "C:\\c++ (2024-2025)\\stack\\main.cpp",
+  "directory": "C:/PROGA/3 sem/Stack/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  -std=c++17 -g -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\PROGA\\3 sem\\Stack\\main.cpp\"",
+  "file": "C:\\PROGA\\3 sem\\Stack\\main.cpp",
   "output": "CMakeFiles\\main.dir\\main.cpp.obj"
 },
 {
-  "directory": "C:/c++ (2024-2025)/stack/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  -std=c++17 -g -o CMakeFiles\\main.dir\\CorrectChecker.cpp.obj -c \"C:\\c++ (2024-2025)\\stack\\CorrectChecker.cpp\"",
-  "file": "C:\\c++ (2024-2025)\\stack\\CorrectChecker.cpp",
+  "directory": "C:/PROGA/3 sem/Stack/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  -std=c++17 -g -o CMakeFiles\\main.dir\\CorrectChecker.cpp.obj -c \"C:\\PROGA\\3 sem\\Stack\\CorrectChecker.cpp\"",
+  "file": "C:\\PROGA\\3 sem\\Stack\\CorrectChecker.cpp",
   "output": "CMakeFiles\\main.dir\\CorrectChecker.cpp.obj"
 }
 ]
